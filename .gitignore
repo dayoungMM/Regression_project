@@ -1,3 +1,47 @@
+data/
+baehu_df.csv
+monthly_sale.csv
+sang_df.csv
+baehu_result.csv
+baehu2_df.csv
+sang_income.csv
+b_apt.csv
+Regression project 중간발표.*
+s_df_div.csv
+s_df_ori.csv
+sales_rate.csv
+sang_income_div.csv
+sang_income_nan.csv
+b_income.csv
+add_variable.csv
+add_variable2.csv
+add_variable3.csv
+apt_rate.csv
+sales2.csv
+sales_final.csv
+store_num.csv
+KNN_cluster.pkl
+add_variable4.csv
+columnsmerge.csv
+df0.csv
+df1.csv
+df1_16.csv
+df1_preprocessing.ipynb
+df1_sejin.csv
+df_result.csv
+df_sejin.csv
+district_code.csv
+district_profile.csv
+result1.csv
+sales_2018.csv
+sales_ori.csv
+sales_ori2.csv
+191211트러블슈팅 발표.pptx
+*.csv
+*.pptx
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
