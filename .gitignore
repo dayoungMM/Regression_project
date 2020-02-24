@@ -1,3 +1,5 @@
+*.csv
+*xlsx
 /test
 data/
 baehu_df.csv
